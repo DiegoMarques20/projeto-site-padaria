@@ -20,14 +20,6 @@ div.cabecalho {
 
 }
 
-div.secao {
-
-    text-align: center;
-    margin: 5px auto;
-    width: 100%;
-    min-width: 280px;
-    max-width: 800px;
-}
 
 img.imagem {
 
@@ -70,19 +62,24 @@ p.descricao {
 div > img {
 
     text-align: center;
+    width: 100%;
 
-    margin: 20px auto;
 }
 
 strong {
     color: black;
 }
 
-.secao {
+div.secao {
 
     text-align: center;
-    margin: 20px auto;
-    width: 700px;
+    text-align: center;
+    margin: 5px auto;
+    width: 100%;
+    min-width: 280px;
+    max-width: 800px;
+    background-color: black;
+
 }
     
 

@@ -14,7 +14,13 @@ body {
 div.cabecalho {
     text-align: center;
     margin: 5px auto;
+    width: 100%;
 
+}
+
+img.imagem {
+
+    width: 100%;
 }
 
 

@@ -1,15 +1,17 @@
 @charset "UTF-8";
 
+
 body {
 
-    margin: 0;
+    margin: 0px;
     background-color: #f4f0e5;
     font-family: Tahoma;
 }
 
 div.cabecalho {
     text-align: center;
-    margin: 20px auto;
+    margin: 5px auto;
+
 }
 
 
@@ -19,6 +21,15 @@ p > a {
     color:rgba(115, 77, 27, 0.767) ; 
 
     font-size: 1.1em;
+}
+
+div.teste {
+
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid rgba(115, 77, 27, 0.767);
 }
 
 h1, h2 {
@@ -33,7 +44,7 @@ p.descricao {
     text-align: center;
     color:rgba(158, 103, 32, 0.823) ;
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 div > img {
@@ -61,8 +72,32 @@ strong {
     background-color: #de8e37;
     color: #fff;
     text-align: center;
-    padding: 15px;
-    margin: 90px;
+    padding: 1px;
+    margin: 1px 50px 1px 50px;
+
+}
+
+.produtos-destaque {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #de8e37;
+    color: #fff;
+}
+
+.produtos > h3 {
+
+    font-size: 1.4em;
+}
+
+.produtos > h4 {
+
+    font-size: 1.2em;
+
+}
+
+.produtos > p {
+
+    font-size: 1.1em;
 
 }
 

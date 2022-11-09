@@ -1,2 +1,32 @@
 @charset "UTF-8";
 
+
+
+div.cabecalho {
+    text-align: center;
+    margin: 20px auto;
+}
+
+
+p > a {
+    margin: 0 10px;
+
+    color:rgba(115, 77, 27, 0.767) ; 
+
+    font-size: 1.1em;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2#historico {
+    color:rgb(158, 103, 32) ; 
+}
+
+p.descricao {
+    text-align: center;
+    color:rgba(158, 103, 32, 0.823) ;
+    font-weight: bold;
+    font-size: 1.3em;
+}

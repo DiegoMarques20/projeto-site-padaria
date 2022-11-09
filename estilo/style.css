@@ -3,6 +3,8 @@
 body {
 
     margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma;
 }
 
 div.cabecalho {
@@ -37,5 +39,10 @@ p.descricao {
 div > img {
 
     text-align: center;
-    margin: auto;
+
+    margin: 20px auto;
+}
+
+strong {
+    color: black;
 }

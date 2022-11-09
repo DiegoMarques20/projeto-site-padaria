@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
+body {
 
+    margin: 0;
+}
 
 div.cabecalho {
     text-align: center;
@@ -29,4 +32,10 @@ p.descricao {
     color:rgba(158, 103, 32, 0.823) ;
     font-weight: bold;
     font-size: 1.3em;
+}
+
+div > img {
+
+    text-align: center;
+    margin: auto;
 }

@@ -20,6 +20,15 @@ div.cabecalho {
 
 }
 
+div.secao {
+
+    text-align: center;
+    margin: 5px auto;
+    width: 100%;
+    min-width: 280px;
+    max-width: 800px;
+}
+
 img.imagem {
 
     width: 100%;

@@ -105,7 +105,15 @@ strong {
     text-align: center;
 }
 
+div.contato > h3 {
+    font-size: 1.3em;
+}
+
 div.local {
 
     text-align: center;
+}
+
+div.local > h3 {
+    font-size: 1.3em;
 }
